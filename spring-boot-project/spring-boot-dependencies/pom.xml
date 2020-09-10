@@ -37,7 +37,7 @@
 		<activemq.version>5.15.10</activemq.version>
 		<antlr2.version>2.7.7</antlr2.version>
 		<appengine-sdk.version>1.9.76</appengine-sdk.version>
-		<artemis.version>2.10.1</artemis.version>
+		<artemis.version>2.12.0</artemis.version>
 		<aspectj.version>1.9.4</aspectj.version>
 		<assertj.version>3.13.2</assertj.version>
 		<atomikos.version>4.0.6</atomikos.version>
@@ -63,7 +63,7 @@
 		<embedded-mongo.version>2.2.0</embedded-mongo.version>
 		<flyway.version>6.0.6</flyway.version>
 		<freemarker.version>2.3.29</freemarker.version>
-		<elasticsearch.version>6.8.3</elasticsearch.version>
+		<elasticsearch.version>7.7.0</elasticsearch.version>
 		<glassfish-el.version>3.0.3</glassfish-el.version>
 		<glassfish-jaxb.version>2.3.2</glassfish-jaxb.version>
 		<groovy.version>2.5.8</groovy.version>
@@ -72,11 +72,11 @@
 		<hamcrest.version>2.1</hamcrest.version>
 		<hazelcast.version>3.12.3</hazelcast.version>
 		<hazelcast-hibernate5.version>1.3.2</hazelcast-hibernate5.version>
-		<hibernate.version>5.4.6.Final</hibernate.version>
-		<hibernate-validator.version>6.0.17.Final</hibernate-validator.version>
+		<hibernate.version>5.4.18.Final</hibernate.version>
+		<hibernate-validator.version>6.0.19.Final</hibernate-validator.version>
 		<hikaricp.version>3.4.1</hikaricp.version>
 		<hsqldb.version>2.5.0</hsqldb.version>
-		<htmlunit.version>2.36.0</htmlunit.version>
+		<htmlunit.version>2.37.0</htmlunit.version>
 		<httpasyncclient.version>4.1.4</httpasyncclient.version>
 		<httpclient.version>4.5.10</httpclient.version>
 		<httpcore.version>4.4.12</httpcore.version>
@@ -146,7 +146,7 @@
 		<kotlin.version>1.3.50</kotlin.version>
 		<kotlin-coroutines.version>1.3.2</kotlin-coroutines.version>
 		<lettuce.version>5.2.0.RELEASE</lettuce.version>
-		<liquibase.version>3.8.0</liquibase.version>
+		<liquibase.version>3.8.1</liquibase.version>
 		<log4j2.version>2.12.1</log4j2.version>
 		<logback.version>1.2.3</logback.version>
 		<lombok.version>1.18.10</lombok.version>
@@ -179,14 +179,14 @@
 		<rxjava-adapter.version>1.2.1</rxjava-adapter.version>
 		<rxjava2.version>2.2.13</rxjava2.version>
 		<selenium.version>3.141.59</selenium.version>
-		<selenium-htmlunit.version>2.36.0</selenium-htmlunit.version>
+		<selenium-htmlunit.version>2.37.0</selenium-htmlunit.version>
 		<sendgrid.version>4.4.1</sendgrid.version>
 		<servlet-api.version>4.0.1</servlet-api.version>
 		<slf4j.version>1.7.28</slf4j.version>
-		<snakeyaml.version>1.25</snakeyaml.version>
+		<snakeyaml.version>1.26</snakeyaml.version>
 		<solr.version>8.2.0</solr.version>
 		<spring-amqp.version>2.2.0.RELEASE</spring-amqp.version>
-		<spring-batch.version>4.2.0.RELEASE</spring-batch.version>
+		<spring-batch.version>4.2.3.RELEASE</spring-batch.version>
 		<spring-cloud-connectors.version>2.0.6.RELEASE</spring-cloud-connectors.version>
 		<spring-data-releasetrain.version>Moore-RELEASE</spring-data-releasetrain.version>
 		<spring-framework.version>5.2.0.RELEASE</spring-framework.version>
@@ -207,9 +207,9 @@
 		<thymeleaf-layout-dialect.version>2.4.1</thymeleaf-layout-dialect.version>
 		<thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
 		<thymeleaf-extras-java8time.version>3.0.4.RELEASE</thymeleaf-extras-java8time.version>
-		<tomcat.version>9.0.27</tomcat.version>
+		<tomcat.version>9.0.37</tomcat.version>
 		<unboundid-ldapsdk.version>4.0.12</unboundid-ldapsdk.version>
-		<undertow.version>2.0.26.Final</undertow.version>
+		<undertow.version>2.1.1.Final</undertow.version>
 		<webjars-hal-browser.version>3325375</webjars-hal-browser.version>
 		<webjars-locator-core.version>0.41</webjars-locator-core.version>
 		<wsdl4j.version>1.6.3</wsdl4j.version>
